@@ -1,0 +1,51 @@
+*INSERT
+Walker, Chris
+Toleti, Sirnivas
+WALKER, CHRIS
+Rawlinson, Edward M
+Manson, Eric J
+Wu, Chang-Yu
+aaa, aaa
+bbb, bbb
+ccc, ccc
+ddd, ddd
+eee, eee
+fff, fff
+ggg, ggg
+hhh, hhh
+iii, iii
+ooo, ooo
+jjj, jjj
+kkk, kkk
+ttt, ttt
+sss, sss
+mmm, mmm
+nnn, nnn
+ttt, ttt
+www, www
+yyy, yyy
+xxx, xxx
+vvv, vvv
+Andrew, Lee
+Max, Xiao
+Jane, Lee
+Adam, White
+*SNAPSHOT
+*SEARCH
+rawlinson, edward m
+Wong, Qun
+*INSERT
+Chiang, Mark
+*DELETE
+Long, Robert
+*SNAPSHOT
+*DELETE
+aaa, aaa
+*SEARCH
+aaa, aaa
+*SNAPSHOT
+*UPDATE
+WALKER, CHRIS
+New Project.
+*SEARCH
+walker, chris
